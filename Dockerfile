@@ -1,3 +1,3 @@
-FROM gcr.io/google_containers/kube-scheduler-amd64:v1.7.4
+FROM k8s.gcr.io/kube-scheduler-amd64:v1.10.1 
 
 MAINTAINER liujin.chen <liujin.chen@qq.com>
